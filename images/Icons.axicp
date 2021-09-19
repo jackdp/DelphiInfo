@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AxialisIconCollection>
+  <Name>Icons</Name>
+  <Icon>
+    <Name>clipboard-copy</Name>
+    <StockIconName>clipboard-copy.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <StockOverlayName></StockOverlayName>
+    <ResourceIDValue>100</ResourceIDValue>
+    <ResourceID>ID_CLIPBOARD-COPY</ResourceID>
+    <OverlayOffset>1</OverlayOffset>
+    <Opacity>255</Opacity>
+    <ColorizeMode>0</ColorizeMode>
+    <StockOverlayPos>4</StockOverlayPos>
+    <DarkMode>0</DarkMode>
+  </Icon>
+  <Icon>
+    <Name>folder-open</Name>
+    <StockIconName>folder-open.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <StockOverlayName></StockOverlayName>
+    <ResourceIDValue>101</ResourceIDValue>
+    <ResourceID>ID_FOLDER-OPEN</ResourceID>
+    <OverlayOffset>1</OverlayOffset>
+    <Opacity>255</Opacity>
+    <ColorizeMode>0</ColorizeMode>
+    <StockOverlayPos>4</StockOverlayPos>
+    <DarkMode>0</DarkMode>
+  </Icon>
+  <Icon>
+    <Name>note-text</Name>
+    <StockIconName>note-text.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <StockOverlayName></StockOverlayName>
+    <ResourceIDValue>102</ResourceIDValue>
+    <ResourceID>ID_NOTE-TEXT</ResourceID>
+    <OverlayOffset>1</OverlayOffset>
+    <Opacity>255</Opacity>
+    <ColorizeMode>0</ColorizeMode>
+    <Colorize>#7B7B7B</Colorize>
+    <StockOverlayPos>18465807</StockOverlayPos>
+    <DarkMode>0</DarkMode>
+  </Icon>
+  <Icon>
+    <Name>properties</Name>
+    <StockIconName>properties.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Development</StockIconSet>
+    <StockOverlayName></StockOverlayName>
+    <ResourceIDValue>103</ResourceIDValue>
+    <ResourceID>ID_PROPERTIES</ResourceID>
+    <OverlayOffset>1</OverlayOffset>
+    <Opacity>255</Opacity>
+    <ColorizeMode>0</ColorizeMode>
+    <StockOverlayPos>3</StockOverlayPos>
+    <DarkMode>0</DarkMode>
+  </Icon>
+</AxialisIconCollection>
